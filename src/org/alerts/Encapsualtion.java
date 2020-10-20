@@ -9,7 +9,12 @@ public class Encapsualtion {
 
 	public static void je() {
 
-		int i = 10;
+		System.out.println("int");
+	}
+	
+	public static void e() {
+
+		System.out.println("int");
 	}
 
 	public static void jf() {
